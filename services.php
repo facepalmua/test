@@ -41,7 +41,7 @@
 
                 <div class="row">
                   <div class="col-lg-6 offset-xl-1 col-12 order-lg-0 order-1">
-                    <div class="block-info animate-item anime-2">
+                    <div class="block-info animate-item anime-1">
                       <h4 class="h4 title down">Аноскопія</h4>
                       <div class="text text-cut-4">
                         <p>
@@ -56,15 +56,15 @@
 
                   <div class="col-lg-6 col-xl-5 col-12 align-self-xl-end align-self-center">
                     <div class="block-image">
-                      <div class="big-img animate-item img-to-right anime-3">
+                      <div class="big-img animate-item img-to-right">
                         <img data-src="img/services-img-1.jpg" src="img/preloader.jpg" alt="">
                       </div>
 
-                      <div class="circle-img animate-item anime-8">
+                      <div class="circle-img animate-item anime-4">
                         <img data-src="img/decor-img-1.jpg" src="img/preloader.jpg" alt="">
                       </div>
 
-                      <div class="move-img animate-item anime-8">
+                      <div class="move-img animate-item anime-4">
                         <img class="object" data-value="3" src="img/move-img.svg" alt="">
                       </div>
 
@@ -87,15 +87,15 @@
                 <div class="row">
                   <div class="col-lg-6 col-xl-5 col-12 align-self-xl-end align-self-center">
                     <div class="block-image">
-                      <div class="big-img animate-item img-to-left anime-3">
+                      <div class="big-img animate-item img-to-left">
                         <img data-src="img/services-img-2.jpg" src="img/preloader.jpg" alt="">
                       </div>
 
-                      <div class="circle-img animate-item anime-8">
+                      <div class="circle-img animate-item anime-4">
                         <img data-src="img/decor-img-1.jpg" src="img/preloader.jpg" alt="">
                       </div>
 
-                      <div class="move-img animate-item anime-8">
+                      <div class="move-img animate-item anime-4">
                         <img class="object" data-value="3" src="img/move-img.svg" alt="">
                       </div>
 
@@ -103,7 +103,7 @@
                   </div>
 
                   <div class="col-lg-6 col-12 pl-lg-0">
-                    <div class="block-info animate-item anime-2">
+                    <div class="block-info animate-item anime-1">
                       <h4 class="h4 title down">Первиний огляд</h4>
                       <div class="text text-cut-4">
                         <p>
@@ -130,7 +130,7 @@
 
                 <div class="row">
                   <div class="col-lg-6 offset-xl-1 col-12 order-lg-0 order-1">
-                    <div class="block-info animate-item anime-2">
+                    <div class="block-info animate-item anime-1">
                       <h4 class="h4 title down">Пальцеве обстеження</h4>
                       <div class="text text-cut-4">
                         <p>
@@ -145,15 +145,15 @@
 
                   <div class="col-lg-6 col-xl-5 col-12 align-self-xl-end align-self-center">
                     <div class="block-image">
-                      <div class="big-img animate-item img-to-right anime-3">
+                      <div class="big-img animate-item img-to-right">
                         <img data-src="img/services-img-3.jpg" src="img/preloader.jpg" alt="">
                       </div>
 
-                      <div class="circle-img animate-item anime-8">
+                      <div class="circle-img animate-item anime-4">
                         <img data-src="img/decor-img-1.jpg" src="img/preloader.jpg" alt="">
                       </div>
 
-                      <div class="move-img animate-item anime-8">
+                      <div class="move-img animate-item anime-4">
                         <img class="object" data-value="3" src="img/move-img.svg" alt="">
                       </div>
 
@@ -176,15 +176,15 @@
                 <div class="row">
                   <div class="col-lg-6 col-xl-5 col-12 align-self-xl-end align-self-center">
                     <div class="block-image">
-                      <div class="big-img animate-item img-to-left anime-3">
+                      <div class="big-img animate-item img-to-left">
                         <img data-src="img/services-img-4.jpg" src="img/preloader.jpg" alt="">
                       </div>
 
-                      <div class="circle-img animate-item anime-8">
+                      <div class="circle-img animate-item anime-4">
                         <img data-src="img/decor-img-1.jpg" src="img/preloader.jpg" alt="">
                       </div>
 
-                      <div class="move-img animate-item anime-8">
+                      <div class="move-img animate-item anime-4">
                         <img class="object" data-value="3" src="img/move-img.svg" alt="">
                       </div>
 
@@ -192,7 +192,7 @@
                   </div>
 
                   <div class="col-lg-6 col-12 pl-lg-0">
-                    <div class="block-info animate-item anime-2">
+                    <div class="block-info animate-item anime-1">
                       <h4 class="h4 title down">Сигмоскопія</h4>
                       <div class="text text-cut-4">
                         <p>
@@ -229,14 +229,14 @@
             <div class="col-xl-4 col-lg-6 col-12 ">
               <div class="contacts-inner">
                 <h2 class="h2 title light animate-item to-up">Наші контакти</h2>
-                <div class="text light animate-item to-up anime-2">
+                <div class="text light animate-item to-up ">
                   <p>
                     Забезпечуємо постійний лікарський супровід до повного одужання. Після курсу лікування даємо
                     гарантію
                     на отриманий результат.
                   </p>
                 </div>
-                <ul class="contacts-info animate-item to-up anime-2">
+                <ul class="contacts-info animate-item to-up ">
                   <li>
                     <div class="image">
                       <img src="img/mail.svg" alt="">
@@ -260,7 +260,7 @@
                 </ul>
               </div>
             </div>
-            <div class="col-xl-7 offset-xl-1 col-lg-6 col-12 animate-item to-left anime-6">
+            <div class="col-xl-7 offset-xl-1 col-lg-6 col-12 animate-item to-left anime-3">
               <div class="form-inner">
                 <h2 class="h2 title down text-center">Форма запису на прийом</h2>
                 <form>

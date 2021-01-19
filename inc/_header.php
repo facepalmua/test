@@ -11,11 +11,11 @@
 
         <div class="address-block">
           <div class="address-cont">
-            <p><b>м. Тернопіль</b>, вул. Лучаківського, 12А/ 28</p>
+            <p class="location-city"><b>м. Тернопіль</b>, <span>вул. Лучаківського, 12А/ 28</span></p>
             <div>Графік роботи : <b>Пн - Пт 8:00-20:00</b></div>
           </div>
 
-          <ul class="address-select">
+          <ul class="address-select select-city">
             <li class="address-cont">
               <a href="#">
                 <p><b>м. Рівне</b>, вул. Карнаухова, 31, 4 поверх</p>
@@ -42,7 +42,7 @@
           <li><a href="services.php">Послуги</a></li>
           <li><a href="disease.php">Захворювання</a></li>
           <li><a href="technology.php">Технології</a></li>
-          <li class="open-popup" data-rel="2"><a href="#">Запис на прийом</a></li>
+          <li class="open-popup" data-rel="1"><a href="#">Запис на прийом</a></li>
           <li><a href="doctors.php">Лікарі</a></li>
           <li><a href="feedback.php">Відгуки</a></li>
           <li><a href="contacts.php">Контакти</a></li>

@@ -29,12 +29,12 @@
         <div class="banner-align size-3">
           <div class="container">
             <div class="row item-animation">
-              <div class="col-12 col-xl-5 offset-xl-1">
+              <div class="col-12 col-xl-12 offset-xl-1">
                 <div class="banner-content">
                   <h1 class="h1 title light animate-item to-up">
                     Гарантоване одужання від геморою без болю і операці
                   </h1>
-                  <div class="text light only-desktop animate-item to-up anime-2">
+                  <div class="text light only-desktop animate-item to-up anime-1">
                     <ul>
                       <li>
                         За <b>7 років</b> із нами стали здоровими бiльше <b>6820 пацієнтів</b>
@@ -53,6 +53,7 @@
                       </li>
                     </ul>
                   </div>
+                  <div class="btn open-popup animate-item to-up anime-2" data-rel="1"><b>ЗАПИСАТИСЯ НА ПРИЙОМ</b></div>
                 </div>
               </div>
             </div>
@@ -84,7 +85,7 @@
 
                 <div class="row">
                   <div class="col-lg-6 offset-xl-1 col-12 order-lg-0 order-1">
-                    <div class="block-info animate-item anime-2">
+                    <div class="block-info animate-item anime-1">
                       <h4 class="h4 title down">
                         Ми в проктології більше 12 років. Із них, о станні 6 років виключно у
                         безопераційному лікуванні геморою.
@@ -96,16 +97,17 @@
                           неприємне захворювання.
                         </p>
                       </div>
+                      <div class="btn scroll-to"><b>записатися на обстеження</b></div>
                     </div>
                   </div>
 
                   <div class="col-lg-6 col-xl-5 col-12 align-self-center">
                     <div class="block-image">
-                      <div class="big-img animate-item img-to-right anime-4">
+                      <div class="big-img animate-item img-to-right">
                         <img data-src="img/block-type2-img-1.jpg" src="img/preloader.jpg" alt="">
                       </div>
 
-                      <div class="move-img animate-item anime-8">
+                      <div class="move-img animate-item anime-4">
                         <img class="object" data-value="3" src="img/move-img.svg" alt="">
                       </div>
 
@@ -128,11 +130,11 @@
                 <div class="row">
                   <div class="col-lg-6 col-xl-5 col-12 align-self-center">
                     <div class="block-image">
-                      <div class="big-img animate-item img-to-left anime-4">
+                      <div class="big-img animate-item img-to-left">
                         <img data-src="img/block-type2-img-2.jpg" src="img/preloader.jpg" alt="">
                       </div>
 
-                      <div class="move-img animate-item anime-8">
+                      <div class="move-img animate-item anime-4">
                         <img class="object" data-value="3" src="img/move-img.svg" alt="">
                       </div>
 
@@ -140,9 +142,9 @@
                   </div>
 
                   <div class="col-lg-6 col-12 pr-lg-0">
-                    <div class="block-info animate-item anime-2">
+                    <div class="block-info animate-item anime-1">
                       <h4 class="h4 title down">
-                        МИ ПРОВОДИМО БЕЗБОЛІСНУ ДІАГНОСТИКУ З ТОЧНОЮ ПОСТАНОВКОЮ ДІАГНОЗУ
+                        Ми проводимо безболісну діагностику з точною постановкою діагнозу
                       </h4>
                       <div class="text ">
                         <p>
@@ -153,6 +155,7 @@
                           Точна постановка діагнозу - запорука правильно підібраного лікування.
                         </p>
                       </div>
+                      <div class="btn scroll-to"><b>записатися на обстеження</b></div>
                     </div>
                   </div>
 
@@ -171,9 +174,9 @@
 
                 <div class="row">
                   <div class="col-lg-6 offset-xl-1 col-12 order-lg-0 order-1">
-                    <div class="block-info animate-item anime-2">
+                    <div class="block-info animate-item anime-1">
                       <h4 class="h4 title down">
-                        ІНДИВІДУАЛЬНИЙ ПІДХІД ДО КОЖНОГО
+                        Індивідуальний підхід до кожного
                       </h4>
                       <div class="text ">
                         <p>
@@ -189,16 +192,17 @@
                           на лікування. Також, в подарунок Вони отримують один
                         </p>
                       </div>
+                      <div class="btn scroll-to"><b>записатися на обстеження</b></div>
                     </div>
                   </div>
 
                   <div class="col-lg-6 col-xl-5 col-12 align-self-center">
                     <div class="block-image">
-                      <div class="big-img animate-item img-to-right anime-4">
+                      <div class="big-img animate-item img-to-right">
                         <img data-src="img/block-type2-img-3.jpg" src="img/preloader.jpg" alt="">
                       </div>
 
-                      <div class="move-img animate-item anime-8">
+                      <div class="move-img animate-item anime-4">
                         <img class="object" data-value="3" src="img/move-img.svg" alt="">
                       </div>
 
@@ -221,11 +225,11 @@
                 <div class="row">
                   <div class="col-lg-6 col-xl-5 col-12 align-self-center">
                     <div class="block-image">
-                      <div class="big-img animate-item img-to-left anime-4">
+                      <div class="big-img animate-item img-to-left">
                         <img data-src="img/block-type2-img-4.jpg" src="img/preloader.jpg" alt="">
                       </div>
 
-                      <div class="move-img animate-item anime-8">
+                      <div class="move-img animate-item anime-4">
                         <img class="object" data-value="3" src="img/move-img.svg" alt="">
                       </div>
 
@@ -233,9 +237,11 @@
                   </div>
 
                   <div class="col-lg-6 col-12 pr-lg-0">
-                    <div class="block-info animate-item anime-2">
-                      <h4 class="h4 title down">МИ ДБАЄМО ПРО ВАШ КОМФОРТ ТА БЕЗПЕКУ</h4>
-                      <div class="text ">
+                    <div class="block-info animate-item anime-1">
+                      <h4 class="h4 title down">
+                        Ми дбаємо про ваш комфорт та безпеку
+                      </h4>
+                      <div class="text">
                         <p>
                           Ми створили необхідні умови в нашій амбулаторії, щоб Вам було комфортно до, під час і після
                           проведення процедур, забезпечуючи всіма необхідними одноразовими матеріалами. Вам не потрібно
@@ -244,6 +250,8 @@
                           У стінах нашої амбулаторії завжди чисто, свіжо та стерильно!
                         </p>
                       </div>
+
+                      <div class="btn scroll-to"><b>записатися на обстеження</b></div>
                     </div>
                   </div>
 
@@ -262,25 +270,29 @@
 
                 <div class="row">
                   <div class="col-lg-6 offset-xl-1 col-12 order-lg-0 order-1">
-                    <div class="block-info animate-item anime-2">
+                    <div class="block-info animate-item anime-1">
                       <h4 class="h4 title down">
-                        ПРИЙОМ ПРОВОДИТЬСЯ БЕЗ ЧЕРГ, З ПОВНОЮ КОНФІДЕНЦІЙНІСТЮ
+                        Прийом проводиться без черг, з повною конфіденційністю
                       </h4>
                       <div class="text ">
                         <p>
-                          ПРИЙОМ ПРОВОДИТЬСЯ БЕЗ ЧЕРГ, З ПОВНОЮ КОНФІДЕНЦІЙНІСТЮ
+                          Ми піклуємось про конфіденційність та безпеку наших клієнтів. Наш ассистент лікаря допоможе
+                          підібрати для Вас зручний час візиту, Для кожного клієнта ми виділяємо годину часу, що
+                          забезпечує відсутність черг та скупчень людей. Тому на прийомі лише Ви та медичний персонал і
+                          Ви не зустрічаєтесь з іншими пацієнтами.
                         </p>
                       </div>
+                      <div class="btn scroll-to"><b>записатися на обстеження</b></div>
                     </div>
                   </div>
 
                   <div class="col-lg-6 col-xl-5 col-12 align-self-center">
                     <div class="block-image">
-                      <div class="big-img animate-item img-to-right anime-4">
+                      <div class="big-img animate-item img-to-right">
                         <img data-src="img/block-type2-img-5.jpg" src="img/preloader.jpg" alt="">
                       </div>
 
-                      <div class="move-img animate-item anime-8">
+                      <div class="move-img animate-item anime-4">
                         <img class="object" data-value="3" src="img/move-img.svg" alt="">
                       </div>
 
@@ -310,7 +322,7 @@
             </div>
             <div class="spacer-sm"></div>
 
-            <div class="col-xl-10 offset-xl-1 col-12 animate-item to-up anime-2">
+            <div class="col-xl-10 offset-xl-1 col-12 animate-item to-up anime-1">
               <div class="achievement row">
 
                 <div class="col-lg-4 col-12">
@@ -376,7 +388,7 @@
             </div>
             <div class="spacer-sm"></div>
 
-            <div class="col-xl-10 offset-xl-1 col-12 animate-item to-up anime-2">
+            <div class="col-xl-10 offset-xl-1 col-12 animate-item to-up anime-1">
               <div class="swiper-entry certificate-slide">
                 <div class="swiper-button-prev"></div>
                 <div class="swiper-button-next"></div>
@@ -459,7 +471,7 @@
       <div class="spacer-xl"></div>
 
       <!-- Form -->
-      <div class="section">
+      <div class="section scroll-to-block">
         <div class="container">
           <div class="row justify-content-center item-animation">
             <div class="col-xl-8 col-12 animate-item to-up">

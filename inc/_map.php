@@ -4,3 +4,4 @@
 </script>
 <script async defer src="js/infobox.js"></script>
 <script async defer src="js/map.js"></script>
+<script async defer src="js/src.js"></script>

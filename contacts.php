@@ -34,7 +34,7 @@
           <div class="row">
             <div class="col-xl-6 col-12 ">
 
-              <div class="contacts-inner type2 animate-item to-right anime-2">
+              <div class="contacts-inner type2 animate-item to-right anime-1">
                 <div class="text">
                   <p>
                     Забезпечуємо постійний лікарський супровід до повного одужання. Після курсу лікування даємо
@@ -72,7 +72,7 @@
         </div>
 
         <!-- Map -->
-        <div class="map-inner animate-item img-to-left anime-4">
+        <div class="map-inner animate-item img-to-left anime-1">
           <div class="map" id="map" data-lat="49.544097075836625" data-lng="25.55835545584653" data-zoom="15"></div>
           <a class="marker" data-rel="map" data-lat="49.544097075836625" data-lng="25.55835545584653"
             data-string="м. Тернопіль, вул. Лучаківського, 12А/ 28" data-image="img/marker.png"

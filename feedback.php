@@ -33,12 +33,19 @@
             <div class="spacer-sm"></div>
           </div>
 
-          <!-- reviews -->
-          <div class="row justify-content-center">
-            <div class="col-xl-10 col-12">
-              <div class="row reviews-inner item-animation">
+          <div class="row justify-content-center item-animation">
+            <div class="col-xl-10 col-12 review-list animate-item to-up anime-1">
+              <a class="btn btn-secondary active" href="feedback.php"><b>Відгуки пацієнтів</b></a>
+              <a class="btn btn-secondary" href="video-feedback.php"><b>Відео відгуки пацієнтів</b></a>
+            </div>
+          </div>
 
-                <div class="col-lg-6 col-12 animate-item to-up anime-2">
+          <!-- reviews -->
+          <div class="row justify-content-center item-animation">
+            <div class="col-xl-10 col-12 animate-item anime-2">
+              <div class="row reviews-inner ">
+
+                <div class="col-lg-6 col-12">
                   <a class="review-item" href="#">
                     <div class="name h6">Анонімно, Івано-Франківськ</div>
                     <div class="text">
@@ -65,7 +72,7 @@
                   </a>
                 </div>
 
-                <div class="col-lg-6 col-12 animate-item to-up anime-2">
+                <div class="col-lg-6 col-12">
                   <a class="review-item" href="#">
                     <div class="name h6">Анонім, Рівне</div>
                     <div class="text">
@@ -90,7 +97,7 @@
                   </a>
                 </div>
 
-                <div class="col-lg-6 col-12 animate-item to-up anime-2">
+                <div class="col-lg-6 col-12">
                   <a class="review-item" href="#">
                     <div class="name h6">Юлія, Івано-Франківськ</div>
                     <div class="text">
@@ -114,7 +121,7 @@
                   </a>
                 </div>
 
-                <div class="col-lg-6 col-12 animate-item to-up anime-2">
+                <div class="col-lg-6 col-12">
                   <a class="review-item" href="#">
                     <div class="name h6">Анонім, Рівне</div>
                     <div class="text">
@@ -138,7 +145,7 @@
                   </a>
                 </div>
 
-                <div class="col-lg-6 col-12 animate-item to-up">
+                <div class="col-lg-6 col-12">
                   <a class="review-item" href="#">
                     <div class="name h6">Анонім, Рівне</div>
                     <div class="text">
@@ -163,7 +170,7 @@
                   </a>
                 </div>
 
-                <div class="col-lg-6 col-12 animate-item to-up">
+                <div class="col-lg-6 col-12">
                   <a class="review-item" href="#">
                     <div class="name h6">Анонім, Рівне</div>
                     <div class="text">
@@ -188,7 +195,7 @@
                   </a>
                 </div>
 
-                <div class="col-lg-6 col-12 animate-item to-up">
+                <div class="col-lg-6 col-12">
                   <a class="review-item" href="#">
                     <div class="name h6">Юлія, Івано-Франківськ</div>
                     <div class="text">
@@ -212,7 +219,7 @@
                   </a>
                 </div>
 
-                <div class="col-lg-6 col-12 animate-item to-up">
+                <div class="col-lg-6 col-12">
                   <a class="review-item" href="#">
                     <div class="name h6">Анонім, Рівне</div>
                     <div class="text">
@@ -267,25 +274,22 @@
       <!-- Form -->
       <div class="section">
         <div class="container">
-          <div class="row justify-content-center item-animation">
-            <div class="col-xl-8 col-12 animate-item to-up">
-              <div class="form-inner type2">
-                <h2 class="h2 title down text-center">Форма запису на прийом</h2>
+          <div class="row justify-content-center">
+            <div class="col-xl-8 col-12">
+              <div class="form-inner type3">
+                <h2 class="h2 title down text-center">Залишити відгук</h2>
                 <form>
-                  <div class="row">
-                    <div class="col-md-6 col-12">
+                  <div class="row show-inputs">
+                    <div class="col-12">
                       <input class="input" type="text" placeholder="Ваше ім’я*" required>
                     </div>
-                    <div class="col-md-6 col-12">
-                      <input class="input inputmask" type="text" placeholder="Ваш номер телефона*" inputmode="numeric"
-                        data-inputmask="'mask': '+38 (999) 999 99 99'" data-inputmask-placeholder="x" required>
-                    </div>
                     <div class="col-12">
-                      <textarea class="input" placeholder="Ваш коментар*" required></textarea>
+                      <textarea class="input" placeholder="Ваш відгук*" required></textarea>
                     </div>
                   </div>
-                  <button class="btn btn-block" type="submit">
-                    <b>записатися на прийом</b></button>
+                  <button class="btn btn-block open-form" data-orig-text="ЗАЛИШИТИ ВІДГУК" data-active-text="НАДІСЛАТИ">
+                    <b>ЗАЛИШИТИ ВІДГУК</b>
+                  </button>
                 </form>
               </div>
             </div>

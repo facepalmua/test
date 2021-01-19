@@ -6,7 +6,6 @@
 <script src="js/jquery.min.js"></script>
 <script defer src="js/rellax.min.js"></script>
 <script defer src="js/SmoothScroll.js"></script>
-<!-- <script defer src="js/parallax.min.js"></script> -->
 <script defer src="js/swiper.min.js"></script>
 <script defer src="js/jquery.inputmask.min.js"></script>
 <script defer src="js/global.js"></script>

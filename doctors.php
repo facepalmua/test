@@ -35,102 +35,7 @@
             <div class="col-xl-10 col-12">
               <div class="row team-inner item-animation full-size">
 
-                <div class="col-xl-4 col-sm-6 col-12 animate-item to-up anime-2">
-                  <a class="team-item" href="doctor-detail.php">
-                    <div class="team-photo">
-                      <img src="img/team-img-1.png" alt="">
-                      <div class="decor-img">
-                        <img src="img/move-img.svg" alt="">
-                      </div>
-                    </div>
-                    <div class="team-info">
-                      <div class="name h6">
-                        Мельник Орест Ігорович
-                      </div>
-                      <div class="descr">
-                        Лікар-хірург, флеболог, лікар УЗД
-                      </div>
-                    </div>
-                  </a>
-                </div>
-
-                <div class="col-xl-4 col-sm-6 col-12 animate-item to-up anime-4">
-                  <a class="team-item" href="doctor-detail.php">
-                    <div class="team-photo">
-                      <img src="img/team-img-2.png" alt="">
-                      <div class="decor-img">
-                        <img src="img/move-img.svg" alt="">
-                      </div>
-                    </div>
-                    <div class="team-info">
-                      <div class="name h6">
-                        Мельник Орест Ігорович
-                      </div>
-                      <div class="descr">
-                        Лікар-хірург, флеболог, лікар УЗД
-                      </div>
-                    </div>
-                  </a>
-                </div>
-
-                <div class="col-xl-4 col-sm-6 col-12 animate-item to-up anime-6">
-                  <a class="team-item" href="doctor-detail.php">
-                    <div class="team-photo">
-                      <img src="img/team-img-1.png" alt="">
-                      <div class="decor-img">
-                        <img src="img/move-img.svg" alt="">
-                      </div>
-                    </div>
-                    <div class="team-info">
-                      <div class="name h6">
-                        Мельник Орест Ігорович
-                      </div>
-                      <div class="descr">
-                        Лікар-хірург, флеболог, лікар УЗД
-                      </div>
-                    </div>
-                  </a>
-                </div>
-
-                <div class="col-xl-4 col-sm-6 col-12 animate-item to-up anime-4">
-                  <a class="team-item" href="doctor-detail.php">
-                    <div class="team-photo">
-                      <img src="img/team-img-1.png" alt="">
-                      <div class="decor-img">
-                        <img src="img/move-img.svg" alt="">
-                      </div>
-                    </div>
-                    <div class="team-info">
-                      <div class="name h6">
-                        Мельник Орест Ігорович
-                      </div>
-                      <div class="descr">
-                        Лікар-хірург, флеболог, лікар УЗД
-                      </div>
-                    </div>
-                  </a>
-                </div>
-
-                <div class="col-xl-4 col-sm-6 col-12 animate-item to-up anime-6">
-                  <a class="team-item" href="doctor-detail.php">
-                    <div class="team-photo">
-                      <img src="img/team-img-2.png" alt="">
-                      <div class="decor-img">
-                        <img src="img/move-img.svg" alt="">
-                      </div>
-                    </div>
-                    <div class="team-info">
-                      <div class="name h6">
-                        Мельник Орест Ігорович
-                      </div>
-                      <div class="descr">
-                        Лікар-хірург, флеболог, лікар УЗД
-                      </div>
-                    </div>
-                  </a>
-                </div>
-
-                <div class="col-xl-4 col-sm-6 col-12 animate-item to-up anime-8">
+                <div class="col-xl-4 col-sm-6 col-12 animate-item to-up anime-1">
                   <a class="team-item" href="doctor-detail.php">
                     <div class="team-photo">
                       <img src="img/team-img-1.png" alt="">
@@ -152,6 +57,25 @@
                 <div class="col-xl-4 col-sm-6 col-12 animate-item to-up anime-2">
                   <a class="team-item" href="doctor-detail.php">
                     <div class="team-photo">
+                      <img src="img/team-img-2.png" alt="">
+                      <div class="decor-img">
+                        <img src="img/move-img.svg" alt="">
+                      </div>
+                    </div>
+                    <div class="team-info">
+                      <div class="name h6">
+                        Мельник Орест Ігорович
+                      </div>
+                      <div class="descr">
+                        Лікар-хірург, флеболог, лікар УЗД
+                      </div>
+                    </div>
+                  </a>
+                </div>
+
+                <div class="col-xl-4 col-sm-6 col-12 animate-item to-up anime-3">
+                  <a class="team-item" href="doctor-detail.php">
+                    <div class="team-photo">
                       <img src="img/team-img-1.png" alt="">
                       <div class="decor-img">
                         <img src="img/move-img.svg" alt="">
@@ -171,6 +95,25 @@
                 <div class="col-xl-4 col-sm-6 col-12 animate-item to-up anime-4">
                   <a class="team-item" href="doctor-detail.php">
                     <div class="team-photo">
+                      <img src="img/team-img-1.png" alt="">
+                      <div class="decor-img">
+                        <img src="img/move-img.svg" alt="">
+                      </div>
+                    </div>
+                    <div class="team-info">
+                      <div class="name h6">
+                        Мельник Орест Ігорович
+                      </div>
+                      <div class="descr">
+                        Лікар-хірург, флеболог, лікар УЗД
+                      </div>
+                    </div>
+                  </a>
+                </div>
+
+                <div class="col-xl-4 col-sm-6 col-12 animate-item to-up anime-5">
+                  <a class="team-item" href="doctor-detail.php">
+                    <div class="team-photo">
                       <img src="img/team-img-2.png" alt="">
                       <div class="decor-img">
                         <img src="img/move-img.svg" alt="">
@@ -188,6 +131,63 @@
                 </div>
 
                 <div class="col-xl-4 col-sm-6 col-12 animate-item to-up anime-6">
+                  <a class="team-item" href="doctor-detail.php">
+                    <div class="team-photo">
+                      <img src="img/team-img-1.png" alt="">
+                      <div class="decor-img">
+                        <img src="img/move-img.svg" alt="">
+                      </div>
+                    </div>
+                    <div class="team-info">
+                      <div class="name h6">
+                        Мельник Орест Ігорович
+                      </div>
+                      <div class="descr">
+                        Лікар-хірург, флеболог, лікар УЗД
+                      </div>
+                    </div>
+                  </a>
+                </div>
+
+                <div class="col-xl-4 col-sm-6 col-12 animate-item to-up anime-1">
+                  <a class="team-item" href="doctor-detail.php">
+                    <div class="team-photo">
+                      <img src="img/team-img-1.png" alt="">
+                      <div class="decor-img">
+                        <img src="img/move-img.svg" alt="">
+                      </div>
+                    </div>
+                    <div class="team-info">
+                      <div class="name h6">
+                        Мельник Орест Ігорович
+                      </div>
+                      <div class="descr">
+                        Лікар-хірург, флеболог, лікар УЗД
+                      </div>
+                    </div>
+                  </a>
+                </div>
+
+                <div class="col-xl-4 col-sm-6 col-12 animate-item to-up anime-2">
+                  <a class="team-item" href="doctor-detail.php">
+                    <div class="team-photo">
+                      <img src="img/team-img-2.png" alt="">
+                      <div class="decor-img">
+                        <img src="img/move-img.svg" alt="">
+                      </div>
+                    </div>
+                    <div class="team-info">
+                      <div class="name h6">
+                        Мельник Орест Ігорович
+                      </div>
+                      <div class="descr">
+                        Лікар-хірург, флеболог, лікар УЗД
+                      </div>
+                    </div>
+                  </a>
+                </div>
+
+                <div class="col-xl-4 col-sm-6 col-12 animate-item to-up anime-3">
                   <a class="team-item" href="doctor-detail.php">
                     <div class="team-photo">
                       <img src="img/team-img-1.png" alt="">
@@ -226,14 +226,14 @@
             <div class="col-xl-4 col-lg-6 col-12 ">
               <div class="contacts-inner">
                 <h2 class="h2 title light animate-item to-up">Наші контакти</h2>
-                <div class="text light animate-item to-up anime-2">
+                <div class="text light animate-item to-up">
                   <p>
                     Забезпечуємо постійний лікарський супровід до повного одужання. Після курсу лікування даємо
                     гарантію
                     на отриманий результат.
                   </p>
                 </div>
-                <ul class="contacts-info animate-item to-up anime-2">
+                <ul class="contacts-info animate-item to-up">
                   <li>
                     <div class="image">
                       <img src="img/mail.svg" alt="">
@@ -257,7 +257,7 @@
                 </ul>
               </div>
             </div>
-            <div class="col-xl-7 offset-xl-1 col-lg-6 col-12 animate-item to-left anime-6">
+            <div class="col-xl-7 offset-xl-1 col-lg-6 col-12 animate-item to-left anime-3">
               <div class="form-inner">
                 <h2 class="h2 title down text-center">Форма запису на прийом</h2>
                 <form>

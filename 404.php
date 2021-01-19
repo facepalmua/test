@@ -40,7 +40,7 @@
                     сторінку
                   </p>
                 </div>
-                <a class="btn btn-secondary" href="index.php">
+                <a class="btn" href="index.php">
                   <b>на головну</b>
                 </a>
               </div>
