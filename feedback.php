@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+  <?php include 'inc/_top.php';?>
+</head>
+
+<body>
+  <!-- LOADER -->
+  <div id="loader-wrapper"></div>
+
+  <div id="content-block">
+    <a href="tel:+380672618255" class="btn btn-call">
+      <img src="img/phone-call.svg" alt="">
+    </a>
+    <!-- HEADER -->
+    <header>
+      <?php include 'inc/_header.php';?>
+    </header>
+
+    <main>
+
+      <div class="section">
+        <div class="container">
+          <!-- Title -->
+          <div class="row justify-content-center item-animation">
+            <div class="spacer-sm"></div>
+            <div class="col-xl-6 col-lg-10 of col-12 animate-item to-up">
+              <h1 class="h2 title text-center">
+                Наші <b>відгуки</b>
+              </h1>
+            </div>
+            <div class="spacer-sm"></div>
+          </div>
+
+          <!-- reviews -->
+          <div class="row justify-content-center">
+            <div class="col-xl-10 col-12">
+              <div class="row reviews-inner item-animation">
+
+                <div class="col-lg-6 col-12 animate-item to-up anime-2">
+                  <a class="review-item" href="#">
+                    <div class="name h6">Анонімно, Івано-Франківськ</div>
+                    <div class="text">
+                      <p>
+                        Проктологічна клініка справила на мене дуже позитивне враження. Дівчата на рецепшені дуже
+                        ввічливі , тактовні і толерантні. Лікар Гаврилюк Олена Миколаївна справжній професіонал своєї
+                        справи, вміло вибудовує стосунки з пацієнтами, вміло надає таку потрібну моральну підтримку .
+                        Всім дуже вдячна. Бажаю процвітання.
+                      </p>
+                    </div>
+                    <div class="date">
+                      <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <path
+                          d="M11.043 1.694V.753h-1.13v.941H6.087V.753h-1.13v.941H0v13.553h16V1.694h-4.957zm-6.086 1.13v.94h1.13v-.94h3.827v.752h1.13v-.752h3.827v1.882H1.129V2.824h3.828zM1.129 14.118V5.835h13.742v8.283H1.129z" />
+                        <path
+                          d="M5.554 10.73H3.672v1.882h1.882v-1.883zm3.387 0H7.06v1.882h1.88v-1.883zm3.387 0h-1.883v1.882h1.883v-1.883zM8.941 7.341H7.06v1.883h1.88V7.34zm3.387-.001h-1.883v1.883h1.883V7.341zm-6.774 0H3.672v1.883h1.882V7.341z" />
+                      </svg>
+                      <b>28.07.2020</b>
+                    </div>
+                    <div class="hover-img">
+                      <img src="img/hover-img.svg" alt="">
+                    </div>
+                  </a>
+                </div>
+
+                <div class="col-lg-6 col-12 animate-item to-up anime-2">
+                  <a class="review-item" href="#">
+                    <div class="name h6">Анонім, Рівне</div>
+                    <div class="text">
+                      <p>
+                        Дуже задоволена! Швидко виявили та усунули проблему. За 3 прийоми вийшла з амбулаторії. Все дуже
+                        чисте та дезинфіковане. Приємний колектив. Обслуговування на рівні.
+                      </p>
+                    </div>
+                    <div class="date">
+                      <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <path
+                          d="M11.043 1.694V.753h-1.13v.941H6.087V.753h-1.13v.941H0v13.553h16V1.694h-4.957zm-6.086 1.13v.94h1.13v-.94h3.827v.752h1.13v-.752h3.827v1.882H1.129V2.824h3.828zM1.129 14.118V5.835h13.742v8.283H1.129z" />
+                        <path
+                          d="M5.554 10.73H3.672v1.882h1.882v-1.883zm3.387 0H7.06v1.882h1.88v-1.883zm3.387 0h-1.883v1.882h1.883v-1.883zM8.941 7.341H7.06v1.883h1.88V7.34zm3.387-.001h-1.883v1.883h1.883V7.341zm-6.774 0H3.672v1.883h1.882V7.341z" />
+                      </svg>
+                      <b>28.07.2020</b>
+                    </div>
+                    <div class="hover-img">
+                      <img src="img/hover-img.svg" alt="">
+                    </div>
+                  </a>
+                </div>
+
+                <div class="col-lg-6 col-12 animate-item to-up anime-2">
+                  <a class="review-item" href="#">
+                    <div class="name h6">Юлія, Івано-Франківськ</div>
+                    <div class="text">
+                      <p>
+                        Дуже вдячна медичному персоналу за хороше ставлення. Все дійсно на рівні. Буду рекомендувати.
+                      </p>
+                    </div>
+                    <div class="date">
+                      <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <path
+                          d="M11.043 1.694V.753h-1.13v.941H6.087V.753h-1.13v.941H0v13.553h16V1.694h-4.957zm-6.086 1.13v.94h1.13v-.94h3.827v.752h1.13v-.752h3.827v1.882H1.129V2.824h3.828zM1.129 14.118V5.835h13.742v8.283H1.129z" />
+                        <path
+                          d="M5.554 10.73H3.672v1.882h1.882v-1.883zm3.387 0H7.06v1.882h1.88v-1.883zm3.387 0h-1.883v1.882h1.883v-1.883zM8.941 7.341H7.06v1.883h1.88V7.34zm3.387-.001h-1.883v1.883h1.883V7.341zm-6.774 0H3.672v1.883h1.882V7.341z" />
+                      </svg>
+                      <b>28.07.2020</b>
+                    </div>
+                    <div class="hover-img">
+                      <img src="img/hover-img.svg" alt="">
+                    </div>
+                  </a>
+                </div>
+
+                <div class="col-lg-6 col-12 animate-item to-up anime-2">
+                  <a class="review-item" href="#">
+                    <div class="name h6">Анонім, Рівне</div>
+                    <div class="text">
+                      <p>
+                        Бажаю гарної праці і ще допомогти багатьом людям бути здоровим.
+                      </p>
+                    </div>
+                    <div class="date">
+                      <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <path
+                          d="M11.043 1.694V.753h-1.13v.941H6.087V.753h-1.13v.941H0v13.553h16V1.694h-4.957zm-6.086 1.13v.94h1.13v-.94h3.827v.752h1.13v-.752h3.827v1.882H1.129V2.824h3.828zM1.129 14.118V5.835h13.742v8.283H1.129z" />
+                        <path
+                          d="M5.554 10.73H3.672v1.882h1.882v-1.883zm3.387 0H7.06v1.882h1.88v-1.883zm3.387 0h-1.883v1.882h1.883v-1.883zM8.941 7.341H7.06v1.883h1.88V7.34zm3.387-.001h-1.883v1.883h1.883V7.341zm-6.774 0H3.672v1.883h1.882V7.341z" />
+                      </svg>
+                      <b>28.07.2020</b>
+                    </div>
+                    <div class="hover-img">
+                      <img src="img/hover-img.svg" alt="">
+                    </div>
+                  </a>
+                </div>
+
+                <div class="col-lg-6 col-12 animate-item to-up">
+                  <a class="review-item" href="#">
+                    <div class="name h6">Анонім, Рівне</div>
+                    <div class="text">
+                      <p>
+                        Дуже задоволена! Швидко виявили та усунули проблему. За 3 прийоми вийшла з амбулаторії. Все дуже
+                        чисте та дезинфіковане. Приємний колектив. Обслуговування на рівні.
+                      </p>
+                    </div>
+                    <div class="date">
+                      <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <path
+                          d="M11.043 1.694V.753h-1.13v.941H6.087V.753h-1.13v.941H0v13.553h16V1.694h-4.957zm-6.086 1.13v.94h1.13v-.94h3.827v.752h1.13v-.752h3.827v1.882H1.129V2.824h3.828zM1.129 14.118V5.835h13.742v8.283H1.129z" />
+                        <path
+                          d="M5.554 10.73H3.672v1.882h1.882v-1.883zm3.387 0H7.06v1.882h1.88v-1.883zm3.387 0h-1.883v1.882h1.883v-1.883zM8.941 7.341H7.06v1.883h1.88V7.34zm3.387-.001h-1.883v1.883h1.883V7.341zm-6.774 0H3.672v1.883h1.882V7.341z" />
+                      </svg>
+                      <b>28.07.2020</b>
+                    </div>
+                    <div class="hover-img">
+                      <img src="img/hover-img.svg" alt="">
+                    </div>
+                  </a>
+                </div>
+
+                <div class="col-lg-6 col-12 animate-item to-up">
+                  <a class="review-item" href="#">
+                    <div class="name h6">Анонім, Рівне</div>
+                    <div class="text">
+                      <p>
+                        Дуже задоволена! Швидко виявили та усунули проблему. За 3 прийоми вийшла з амбулаторії. Все дуже
+                        чисте та дезинфіковане. Приємний колектив. Обслуговування на рівні.
+                      </p>
+                    </div>
+                    <div class="date">
+                      <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <path
+                          d="M11.043 1.694V.753h-1.13v.941H6.087V.753h-1.13v.941H0v13.553h16V1.694h-4.957zm-6.086 1.13v.94h1.13v-.94h3.827v.752h1.13v-.752h3.827v1.882H1.129V2.824h3.828zM1.129 14.118V5.835h13.742v8.283H1.129z" />
+                        <path
+                          d="M5.554 10.73H3.672v1.882h1.882v-1.883zm3.387 0H7.06v1.882h1.88v-1.883zm3.387 0h-1.883v1.882h1.883v-1.883zM8.941 7.341H7.06v1.883h1.88V7.34zm3.387-.001h-1.883v1.883h1.883V7.341zm-6.774 0H3.672v1.883h1.882V7.341z" />
+                      </svg>
+                      <b>28.07.2020</b>
+                    </div>
+                    <div class="hover-img">
+                      <img src="img/hover-img.svg" alt="">
+                    </div>
+                  </a>
+                </div>
+
+                <div class="col-lg-6 col-12 animate-item to-up">
+                  <a class="review-item" href="#">
+                    <div class="name h6">Юлія, Івано-Франківськ</div>
+                    <div class="text">
+                      <p>
+                        Дуже вдячна медичному персоналу за хороше ставлення. Все дійсно на рівні. Буду рекомендувати.
+                      </p>
+                    </div>
+                    <div class="date">
+                      <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <path
+                          d="M11.043 1.694V.753h-1.13v.941H6.087V.753h-1.13v.941H0v13.553h16V1.694h-4.957zm-6.086 1.13v.94h1.13v-.94h3.827v.752h1.13v-.752h3.827v1.882H1.129V2.824h3.828zM1.129 14.118V5.835h13.742v8.283H1.129z" />
+                        <path
+                          d="M5.554 10.73H3.672v1.882h1.882v-1.883zm3.387 0H7.06v1.882h1.88v-1.883zm3.387 0h-1.883v1.882h1.883v-1.883zM8.941 7.341H7.06v1.883h1.88V7.34zm3.387-.001h-1.883v1.883h1.883V7.341zm-6.774 0H3.672v1.883h1.882V7.341z" />
+                      </svg>
+                      <b>28.07.2020</b>
+                    </div>
+                    <div class="hover-img">
+                      <img src="img/hover-img.svg" alt="">
+                    </div>
+                  </a>
+                </div>
+
+                <div class="col-lg-6 col-12 animate-item to-up">
+                  <a class="review-item" href="#">
+                    <div class="name h6">Анонім, Рівне</div>
+                    <div class="text">
+                      <p>
+                        Бажаю гарної праці і ще допомогти багатьом людям бути здоровим.
+                      </p>
+                    </div>
+                    <div class="date">
+                      <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <path
+                          d="M11.043 1.694V.753h-1.13v.941H6.087V.753h-1.13v.941H0v13.553h16V1.694h-4.957zm-6.086 1.13v.94h1.13v-.94h3.827v.752h1.13v-.752h3.827v1.882H1.129V2.824h3.828zM1.129 14.118V5.835h13.742v8.283H1.129z" />
+                        <path
+                          d="M5.554 10.73H3.672v1.882h1.882v-1.883zm3.387 0H7.06v1.882h1.88v-1.883zm3.387 0h-1.883v1.882h1.883v-1.883zM8.941 7.341H7.06v1.883h1.88V7.34zm3.387-.001h-1.883v1.883h1.883V7.341zm-6.774 0H3.672v1.883h1.882V7.341z" />
+                      </svg>
+                      <b>28.07.2020</b>
+                    </div>
+                    <div class="hover-img">
+                      <img src="img/hover-img.svg" alt="">
+                    </div>
+                  </a>
+                </div>
+
+              </div>
+            </div>
+
+            <!-- Pagination -->
+            <div class="spacer-sm"></div>
+            <div class="row">
+              <div class="col-12">
+                <div class="pagination">
+                  <ul>
+                    <li class="pag-arrow arr-left"><a href="#"></a></li>
+                    <li><a href="#">1</a></li>
+                    <li class="dott">...</li>
+                    <li><a href="#">4</a></li>
+                    <li class="active"><a href="#">5</a></li>
+                    <li><a href="#">6</a></li>
+                    <li class="dott">...</li>
+                    <li><a href="#">8</a></li>
+                    <li class="pag-arrow arr-right"><a href="#"></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+      <div class="spacer-xl"></div>
+
+      <!-- Form -->
+      <div class="section">
+        <div class="container">
+          <div class="row justify-content-center item-animation">
+            <div class="col-xl-8 col-12 animate-item to-up">
+              <div class="form-inner type2">
+                <h2 class="h2 title down text-center">Форма запису на прийом</h2>
+                <form>
+                  <div class="row">
+                    <div class="col-md-6 col-12">
+                      <input class="input" type="text" placeholder="Ваше ім’я*" required>
+                    </div>
+                    <div class="col-md-6 col-12">
+                      <input class="input inputmask" type="text" placeholder="Ваш номер телефона*" inputmode="numeric"
+                        data-inputmask="'mask': '+38 (999) 999 99 99'" data-inputmask-placeholder="x" required>
+                    </div>
+                    <div class="col-12">
+                      <textarea class="input" placeholder="Ваш коментар*" required></textarea>
+                    </div>
+                  </div>
+                  <button class="btn btn-block" type="submit">
+                    <b>записатися на прийом</b></button>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="spacer-xl"></div>
+
+
+      <div class="decor-img right rellax" data-rellax-speed="1">
+        <img src='img/bg-decor-2.svg' alt='decor image'>
+      </div>
+    </main>
+
+    <!-- FOOTER -->
+    <footer>
+      <?php include 'inc/_footer.php';?>
+    </footer>
+
+  </div>
+
+  <?php include 'inc/_popup.php';?>
+  <?php include 'inc/_bottom.php';?>
+</body>
+
+</html>
